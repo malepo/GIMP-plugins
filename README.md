@@ -12,4 +12,4 @@ On1 Effects Free: https://www.on1.com/apps/effects10free/
 Neat Image (trial): https://ni.neatvideo.com/
 Frazis Photo Software (trials): https://www.projects-software.com/
 
-All those PY scripts are originally made by Rob Antonishen, later modifies by Partha Bagchi and again modified by Martin Pohl to have those special Addon applications integrated to GIMP
+All those PY scripts are originally made by Rob Antonishen, later modified by Partha Bagchi and again modified by me to have those special Addon applications integrated to GIMP
