@@ -13,3 +13,5 @@ Neat Image (trial): https://ni.neatvideo.com/
 Frazis Photo Software (trials): https://www.projects-software.com/
 
 All those PY scripts are originally made by Rob Antonishen, later modified by Partha Bagchi and again modified by me to have those special Addon applications integrated to GIMP
+
+Bothe HDR scripts (Franzis_HDR.py and NIKHDREfex.py) do need to have some additional features to support multiple images - this has to be done in future.
